@@ -10,3 +10,5 @@
 10 line
 add diff 11 line
 add diff 12 line
+addition line (11)
+addition line (12)
