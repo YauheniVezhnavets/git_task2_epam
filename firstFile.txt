@@ -1,7 +1,7 @@
 modify first line
 modify second line
-third line
-fourth line
+modify third line
+modify fourth line
 fifth line
 six line
 seven line
