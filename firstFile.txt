@@ -2,8 +2,8 @@ modify first line
 modify second line
 modify third line
 modify fourth line
-fifth line
-six line
+20 change fifth line from folder one after stash
+20 change six line from folder one after stash
 seven line
 eight line
 ninth line
