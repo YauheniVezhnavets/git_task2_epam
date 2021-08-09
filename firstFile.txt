@@ -6,5 +6,5 @@ modify fourth line
 20 change six line from folder one after stash
 seven line
 eight line
-ninth line
-tenth line
+modify  ninth line from second folder
+modify tenth line from second folder
